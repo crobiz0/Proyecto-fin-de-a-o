@@ -1,0 +1,41 @@
+.contenedor{
+margin:auto;
+    width: 500px;
+    border:3px solid black;
+   box-shadow: 0 0 3px black;
+    padding:20px;
+    background-color: #b8cacc;
+    border-radius: 10px;
+}
+p{
+font-size: 20px;
+
+text-align: center;
+text-shadow: 0 0 3px black;
+}
+form{
+text-align: center;
+width:100%;
+}
+.envi{
+    margin:auto;
+    width:60%;
+    padding:10px;
+    margin:10px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+h1{
+    text-align: center;
+    color:#232829;
+    text-shadow:0 0 3px black;
+}
+input{
+width:50%;
+box-shadow: 0 0 1px black;
+font-size: 15px;
+}
+.envi:hover,input:hover{
+box-shadow: 0 0 10px black;
+
+}
