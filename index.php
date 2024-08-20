@@ -9,7 +9,7 @@
 <body>
 
 <div class="contenedor">
-<h1>INICIO DE SESION</h1>
+<h1> Prueba de INICIO DE SESION</h1>
 <form action="proceso.php" method="post">
 
 <p><label for="nombre">Nombre</label></p> 
